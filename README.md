@@ -1,4 +1,4 @@
 # Project-demo
 This is my first git Repository.
 <br>
-Author - Akshita Patidar 
+Author - Akshita Patidar(Akshu)
